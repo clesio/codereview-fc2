@@ -2,3 +2,4 @@
 .guthub @clesio
 *.go @clesio
 *.c @clesio
+*.html @clesio
